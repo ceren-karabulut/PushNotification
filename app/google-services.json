@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123698414419",
+    "firebase_url": "https://fir-send-ce5be.firebaseio.com",
+    "project_id": "fir-send-ce5be",
+    "storage_bucket": "fir-send-ce5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123698414419:android:08a969d1d9e3d358a2d7a6",
+        "android_client_info": {
+          "package_name": "com.example.firebasesend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123698414419-n082hbde2nqa26137j0ajovmv51frcg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNStyuWFL2oUzwTaKPO3-mh0ZFY4cOu-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123698414419-n082hbde2nqa26137j0ajovmv51frcg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
